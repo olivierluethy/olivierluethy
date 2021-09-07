@@ -1,35 +1,89 @@
-//Search box
-function triggercross(val) {
-    var val = document.getElementById("search");
-    var x = document.getElementById("closeid");
-    x.style.display = "block";
+function goToAnfang() {
+    document.getElementById("content").scrollIntoView({
+        behavior: "smooth",
+        block: "end",
+        inline: "nearest"
+    });
+
+    document.getElementById("side1").style = "color: yellow;";
+    document.getElementById("side2").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side3").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side4").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side5").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side6").style = "color: rgba(255, 255, 255, 0.4);";
 }
 
-function close1() {
+function goToAbout() {
+    document.getElementById("about").scrollIntoView({
+        behavior: "smooth",
+        block: "end",
+        inline: "nearest"
+    });
 
-    // document.getElementById("demo").innerHTML = "You wrote: " + val;
-    var x = document.getElementById("closeid");
-    if (x.style.display == "block") {
-        x.style.display = "none";
-    } else {
-        x.style.display = "block";
-    }
+    document.getElementById("side1").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side2").style = "color: yellow;";
+    document.getElementById("side3").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side4").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side5").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side6").style = "color: rgba(255, 255, 255, 0.4);";
 }
 
-//Scrool down hide menu bar
-var prevScrollpos = window.pageYOffset;
-window.onscroll = function () {
-    var currentScrollPos = window.pageYOffset;
-    if (prevScrollpos > currentScrollPos) {
-        document.getElementById("navigation").style.top = "0";
-    } else {
-        document.getElementById("navigation").style.top = "-50px";
-    }
-    prevScrollpos = currentScrollPos;
+function goToMyWay() {
+    document.getElementById("myway").scrollIntoView({
+        behavior: "smooth",
+        block: "end",
+        inline: "nearest"
+    });
+
+    document.getElementById("side1").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side2").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side3").style = "color: yellow;";
+    document.getElementById("side4").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side5").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side6").style = "color: rgba(255, 255, 255, 0.4);";
 }
 
-//Footer
-var currentYear = new Date().getFullYear();
-$(function () {
-    $('#year').text(currentYear);
-});
+function goToProjects() {
+    document.getElementById("projects").scrollIntoView({
+        behavior: "smooth",
+        block: "end",
+        inline: "nearest"
+    });
+
+    document.getElementById("side1").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side2").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side3").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side4").style = "color: yellow;";
+    document.getElementById("side5").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side6").style = "color: rgba(255, 255, 255, 0.4);";
+}
+
+function goToVision() {
+    document.getElementById("vision").scrollIntoView({
+        behavior: "smooth",
+        block: "end",
+        inline: "nearest"
+    });
+
+    document.getElementById("side1").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side2").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side3").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side4").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side5").style = "color: yellow;";
+    document.getElementById("side6").style = "color: rgba(255, 255, 255, 0.4);";
+}
+
+function goToContact() {
+    document.getElementById("vision").scrollIntoView({
+        behavior: "smooth",
+        block: "end",
+        inline: "nearest"
+    });
+
+    document.getElementById("side1").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side2").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side3").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side4").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side5").style = "color: rgba(255, 255, 255, 0.4);";
+    document.getElementById("side6").style = "color: yellow;";
+}
