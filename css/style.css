@@ -1,0 +1,43 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: var(--scroll-padding, 50px);
+}
+html body {
+  margin: 0;
+  padding: 0;
+  font-family: "proxima-nova-condensed", "Helvetica", arial, sans-serif;
+  color: white;
+}
+html body nav {
+  display: flex;
+  width: 100%;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: black;
+  z-index: 100;
+}
+html body nav .anchors {
+  display: flex;
+  list-style: none;
+  margin-top: 1.7rem;
+  margin-left: 68rem;
+}
+html body nav .anchors a {
+  margin-right: 2rem;
+  text-decoration: none;
+  transition: color 100ms;
+  color: rgba(255, 255, 255, 0.4);
+  font-weight: 700;
+}
+html body nav .anchors a:hover {
+  color: #ffffff;
+  cursor: pointer;
+}
+html body nav .title {
+  margin-left: 2rem;
+}
+html body .content {
+  color: black;
+  margin: 2em;
+}/*# sourceMappingURL=style.css.map */
