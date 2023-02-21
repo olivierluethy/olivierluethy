@@ -1,13 +1,20 @@
 # Hi there 👋, my name is Olivier Lüthy!
-I'm currently working on some business projects that may can have an appect on our future.
+<strong>I am 20 years old coming from Switzerland (Lucerne) and I am currently working in a company as a software developer.</strong>
+In my free time I do a lot of different things. I develop apps for problems, edit videos for my YouTube channel and like to go outside to take pictures for my Instagram channel.
 
 I like to solve real life problems and help other people through programming.
 
+Where my professional interests lie:
+- Web development
+- Photography
+- Videography
+- Robotics
+- hacking
+
 ## Programming languages with experiences
 1. C
-2. C++
-3. C# (Console Application & WPF)
-4. Python
+2. C# (Console Application & WPF)
+3. Python
 
 ## Languages for the web
 1. HTML
@@ -22,13 +29,10 @@ I like to solve real life problems and help other people through programming.
 4. Bootstrap
 
 ## Done projects
-1. Website where you can buy and download games with an account (HTML, CSS, PHP, JavaScript)
+1. Game Shop (HTML, CSS, PHP, JavaScript)
 2. Mastermind (HTML, CSS, JavaScript)
 3. Hangman (HTML, CSS, JavaScript)
-4. Discord Bot for playing Hangman in Discord chat (Python using discord.py)
+4. Hangman Discord Bot (discord.py)
 5. All in one Password Generator + Password Cracker + Password Strength Checker (C# WPF)<br>
 
 ``More is coming soon``
-
-## Future projects:
-> SECRET🤐
