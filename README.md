@@ -3,10 +3,10 @@
 </div>
 <a href="https://github.com/olivierluethy?tab=followers">
     <img alt="GitHub followers" src="https://media.licdn.com/dms/image/D4D16AQGeAXxK0g-kNA/profile-displaybackgroundimage-shrink_350_1400/0/1681888349977?e=1714608000&v=beta&t=raQf9496veooldklPltdPaskM2S_dBCm062mL9a-m2c">
-  </a>
+  </a><br><br><br>
 
 <div align="center">
-  <strong>I'm 21 years old Software Developer, Content Creator, Photograph and Cybersecurity Enthusiast!</strong>
+  <h3><strong>I'm 21 years old Software Developer, Content Creator, Photograph, and Cybersecurity Enthusiast!</strong></h3>
 </div><br><br>
 
 <a href="https://github.com/olivierluethy/olivierluethy">
@@ -20,12 +20,13 @@
     <img align="center" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UChOkKYojDAE8L9HPXNnL1Kw?style=flat&logo=youtube">
   </a>
 
-## Where my professional interests lie:
-- Web development
-- Photography | Editing with Adobe Lightroom and Photoshop
-- Videography | Editing with Filmora, Sony Vegas Pro, Premiere Pro, Davinci Resolve
+## Where my professional interests lie
 - Robotics
 - Cyber Security
+- Web development
+- Building and flying FPV drones
+- Photography | Editing with Adobe Lightroom and Photoshop
+- Videography | Editing with Filmora, Sony Vegas Pro, Premiere Pro, Davinci Resolve
 
 ## Programming languages with experiences
 <table>
@@ -135,20 +136,22 @@
   </tr>
 </table>
 
-## Done projects
+## My projects
 <p align="center">
   <h3>Filter my projects by language</h3>
-    <a href="https://github.com/olivierluethy?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/olivierluethy?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/olivierluethy?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"></a>
-   <a href="https://github.com/olivierluethy?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-javascript-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/olivierluethy?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
+    <a href="https://github.com/olivierluethy?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat-square&logo=Plex&logoColor=white" width="120" height="30"></a>
+    <a href="https://github.com/olivierluethy?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=yellow" width="120" height="30"></a>
+    <a href="https://github.com/olivierluethy?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" width="120" height="30"></a>
+   <a href="https://github.com/olivierluethy?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=javascript&logoColor=yellow" width="120" height="30"></a>
+    <a href="https://github.com/olivierluethy?tab=repositories&language=powershell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=vue" target="_blank"><img alt="vue.js" src="https://img.shields.io/badge/-Vue.js-5391FE?style=flat-square&logo=Vue.js&logoColor=green" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=php" target="_blank"><img alt="php" src="https://img.shields.io/badge/-PHP-5391FE?style=flat-square&logo=PHP&logoColor=gray" width="120" height="30"></a>
 </p>
 
-1. Game Shop (HTML, CSS, PHP, JavaScript)
-2. Mastermind (HTML, CSS, JavaScript)
-3. Hangman (HTML, CSS, JavaScript)
-4. Hangman Discord Bot (discord.py)
+<h4>My biggest projects</h4>
+1. Game Shop called [GGames](https://github.com/olivierluethy/GGames)
+2. Notes-taking app called [TackPad](https://github.com/olivierluethy/TackPad)
+2. Online game called [Mastermind](https://github.com/olivierluethy/Mastermind)
 5. All in one Password Generator + Password Cracker + Password Strength Checker (C# WPF)<br>
 
 ``More is coming soon``
