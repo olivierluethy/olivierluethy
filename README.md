@@ -39,6 +39,12 @@
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>PHP
@@ -89,7 +95,7 @@
       <a href="#olivierluethy">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>SASS
+      <br>SASS | SCSS
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
@@ -113,7 +119,7 @@
       <a href="#olivierluethy">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>ASP.NET Core MVC
+      <br>ASP.NET Core
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
@@ -133,6 +139,24 @@
       </a>
       <br>Bootstrap
     </td>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Ionic Framework
+    </td>
+  </tr>
+</table>
+
+## Cross-platform runtime environment
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Node.js
+    </td>
   </tr>
 </table>
 
@@ -149,12 +173,12 @@
 </p>
 
 <h4>My biggest projects</h4>
-1. Game Shop called [GGames](https://github.com/olivierluethy/GGames)
-2. Notes-taking app called [TackPad](https://github.com/olivierluethy/TackPad)
-2. Online game called [Mastermind](https://github.com/olivierluethy/Mastermind)
+1. Game Shop called [GGames](https://github.com/olivierluethy/GGames)<br>
+2. Notes-taking app called [TackPad](https://github.com/olivierluethy/TackPad)<br>
+2. Online game called [Mastermind](https://github.com/olivierluethy/Mastermind)<br>
 5. All in one Password Generator + Password Cracker + Password Strength Checker (C# WPF)<br>
 
-``More is coming soon``
+``More projects coming soon``
 
 ## My statistics
 <a href="https://github.com/olivierluethy/olivierluethy">
