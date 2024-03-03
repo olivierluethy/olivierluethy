@@ -1,32 +1,30 @@
 <div align="center">
   <h1> Hey, Hallo, Bonjour 👋</h1>
 </div>
-<a href="https://github.com/olivierluethy?tab=followers">
+
+<a href="https://www.linkedin.com/in/olivier-l%C3%BCthy-381a0b24b/">
     <img alt="GitHub followers" src="https://media.licdn.com/dms/image/D4D16AQGeAXxK0g-kNA/profile-displaybackgroundimage-shrink_350_1400/0/1681888349977?e=1714608000&v=beta&t=raQf9496veooldklPltdPaskM2S_dBCm062mL9a-m2c">
   </a><br><br><br>
 
 <div align="center">
-  <h3><strong>I'm 21 years old Software Developer, Content Creator, Photograph, and Cybersecurity Enthusiast!</strong></h3>
+  <h3><strong>I'm a 21 years old software developer, videographer, photographer, and cybersecurity enthusiast!</strong></h3>
 </div><br><br>
 
-<a href="https://github.com/olivierluethy/olivierluethy">
-  <img align="center" src="https://komarev.com/ghpvc/?username=olivierluethy&style=for-the-badge&color=000000&abbreviated=true" />
-</a>
-
-<a href="https://github.com/olivierluethy?tab=followers">
-    <img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/olivierluethy?style=flat&logo=github">
-  </a>
-  <a href="https://www.youtube.com/channel/UChOkKYojDAE8L9HPXNnL1Kw">
-    <img align="center" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UChOkKYojDAE8L9HPXNnL1Kw?style=flat&logo=youtube">
-  </a>
+  <p align="center">
+    <a href="https://github.com/olivierluethy/olivierluethy"><img src="https://komarev.com/ghpvc/?username=olivierluethy&style=for-the-badge&color=000000&abbreviated=true"/></a>
+    <a href="https://www.linkedin.com/in/olivier-l%C3%BCthy-381a0b24b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+    <a href="https://www.instagram.com/olivier.luethy/"><img src="https://img.shields.io/badge/Olivier Lüthy-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  </p>
 
 ## Where my professional interests lie
-- Robotics
-- Cyber Security
-- Web development
-- Building and flying FPV drones
-- Photography | Editing with Adobe Lightroom and Photoshop
-- Videography | Editing with Filmora, Sony Vegas Pro, Premiere Pro, Davinci Resolve
+- 🤖 Robotics
+- 🔒 Cyber Security
+- 💻 Software Development
+- 🌐 Full-Stack Web Development
+- 🚁 Building and flying FPV drones
+- 📷✂️ Photography | Editing with Adobe Lightroom and Photoshop<br><p><a href="https://www.instagram.com/visioncraft_photography/"><img src="https://img.shields.io/badge/Visioncraft Photography-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
+- 🎥✂️ Videography | Editing with Filmora, Sony Vegas Pro, Adobe Premiere Pro, DaVinci Resolve <p><a href="https://www.youtube.com/channel/UChOkKYojDAE8L9HPXNnL1Kw"><img src="https://img.shields.io/badge/Olivier Lüthy-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=pink" height=25></a><a href="https://www.youtube.com/channel/UChOkKYojDAE8L9HPXNnL1Kw">
+</p>
 
 ## Programming languages with experiences
 <table>
@@ -172,17 +170,18 @@
   <a href="https://github.com/olivierluethy?tab=repositories&language=php" target="_blank"><img alt="php" src="https://img.shields.io/badge/-PHP-5391FE?style=flat-square&logo=PHP&logoColor=gray" width="120" height="30"></a>
 </p>
 
-<h4>My biggest projects</h4>
-1. Game Shop called [GGames](https://github.com/olivierluethy/GGames)<br>
-2. Notes-taking app called [TackPad](https://github.com/olivierluethy/TackPad)<br>
-2. Online game called [Mastermind](https://github.com/olivierluethy/Mastermind)<br>
-5. All in one Password Generator + Password Cracker + Password Strength Checker (C# WPF)<br>
+<h3>My biggest projects</h3>
+1. Game Shop called <a href="https://github.com/olivierluethy/GGames">GGames</a><br>
+2. A tournament schedule application called <a href="https://github.com/olivierluethy/TourneyMaster">TourneyMaster</a><br>
+3. Notes-taking app called <a href="https://github.com/olivierluethy/TackPad">TackPad</a><br>
+4. Online game called <a href="https://github.com/olivierluethy/Mastermind">Mastermind</a><br>
+5. All in one Password Generator + Password Cracker + Password Strength Checker called <a href="https://github.com/olivierluethy/PassMasterSuite">PassMasterSuite</a><br>
 
 ``More projects coming soon``
 
 ## My statistics
 <a href="https://github.com/olivierluethy/olivierluethy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivierluethy&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivierluethy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
 </a>
 
 <a href="https://github.com/olivierluethy/olivierluethy">
