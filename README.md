@@ -31,43 +31,43 @@
   <tr>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C-Sharp" />
       </a>
       <br>C# 
     </td>
     <td align="center" width="96">
       <a href="olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell" />
       </a>
       <br>PowerShell
     </td>
@@ -79,31 +79,31 @@
   <tr>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="SASS" />
       </a>
       <br>SASS | SCSS
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
@@ -115,31 +115,37 @@
   <tr>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt="ASP.NET Core" />
       </a>
       <br>ASP.NET Core
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="48" height="48" alt="Angular" />
       </a>
       <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
       </a>
       <br>Vue.js
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React.js" />
+      </a>
+      <br>React.js
+    </td>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" width="48" height="48" alt="Ionic" />
       </a>
       <br>Ionic Framework
     </td>
@@ -151,7 +157,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
@@ -163,11 +169,12 @@
   <h3>Filter my projects by language</h3>
     <a href="https://github.com/olivierluethy?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat-square&logo=Plex&logoColor=white" width="120" height="30"></a>
     <a href="https://github.com/olivierluethy?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=yellow" width="120" height="30"></a>
-    <a href="https://github.com/olivierluethy?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" width="120" height="30"></a>
+    <a href="https://github.com/olivierluethy?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=darkviolet" width="120" height="30"></a>
    <a href="https://github.com/olivierluethy?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=javascript&logoColor=yellow" width="120" height="30"></a>
-    <a href="https://github.com/olivierluethy?tab=repositories&language=powershell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" width="120" height="30"></a>
+    <a href="https://github.com/olivierluethy?tab=repositories&language=powershell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=black" width="120" height="30"></a>
   <a href="https://github.com/olivierluethy?tab=repositories&language=vue" target="_blank"><img alt="vue.js" src="https://img.shields.io/badge/-Vue.js-5391FE?style=flat-square&logo=Vue.js&logoColor=green" width="120" height="30"></a>
   <a href="https://github.com/olivierluethy?tab=repositories&language=php" target="_blank"><img alt="php" src="https://img.shields.io/badge/-PHP-5391FE?style=flat-square&logo=PHP&logoColor=gray" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=react" target="_blank"><img alt="php" src="https://img.shields.io/badge/-React.js-5391FE?style=flat-square&logo=React&logoColor=blue" width="120" height="30"></a>
 </p>
 
 <h3>My biggest projects</h3>
@@ -179,9 +186,12 @@
 
 ``More projects coming soon``
 
+<h3>My contributions</h3>
+1. Application to take a photo from the cam, image is sent to ChatGPT API and it creates a story based on image called <a href="https://github.com/linalopes/AI-storytelling-for-kids">AI Storytelling for Kids</a><br>
+
 ## My statistics
 <a href="https://github.com/olivierluethy/olivierluethy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivierluethy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivierluethy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical"/>
 </a>
 
 <a href="https://github.com/olivierluethy/olivierluethy">
