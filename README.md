@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hey, Hallo, Bonjour 👋</h1>
+  <h1>Hey, Hello, Bonjour, Ciao <img alt="Waving Hand" src="wavingHand.gif" width="50" height="50"></h1>
 </div>
 
 <a href="https://www.linkedin.com/in/olivier-l%C3%BCthy-381a0b24b/">
@@ -168,11 +168,11 @@
 <p align="center">
   <h3>Filter my projects by language</h3>
     <a href="https://github.com/olivierluethy?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat-square&logo=Plex&logoColor=white" width="120" height="30"></a>
-    <a href="https://github.com/olivierluethy?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=yellow" width="120" height="30"></a>
-    <a href="https://github.com/olivierluethy?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=darkviolet" width="120" height="30"></a>
+    <a href="https://github.com/olivierluethy?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3A85B7?style=flat-square&logo=Python&logoColor=yellow" width="120" height="30"></a>
+    <a href="https://github.com/olivierluethy?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-6C4EDB?style=flat-square&logo=csharp&logoColor=21262d" width="120" height="30"></a>
    <a href="https://github.com/olivierluethy?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=javascript&logoColor=yellow" width="120" height="30"></a>
     <a href="https://github.com/olivierluethy?tab=repositories&language=powershell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=black" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=vue" target="_blank"><img alt="vue.js" src="https://img.shields.io/badge/-Vue.js-5391FE?style=flat-square&logo=Vue.js&logoColor=green" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=vue" target="_blank"><img alt="vue.js" src="https://img.shields.io/badge/-Vue.js-444E62?style=flat-square&logo=Vue.js&logoColor=green" width="120" height="30"></a>
   <a href="https://github.com/olivierluethy?tab=repositories&language=php" target="_blank"><img alt="php" src="https://img.shields.io/badge/-PHP-5391FE?style=flat-square&logo=PHP&logoColor=gray" width="120" height="30"></a>
   <a href="https://github.com/olivierluethy?tab=repositories&language=react" target="_blank"><img alt="php" src="https://img.shields.io/badge/-React.js-5391FE?style=flat-square&logo=React&logoColor=blue" width="120" height="30"></a>
 </p>
