@@ -1,14 +1,10 @@
 <div align="center">
-  <h1>Hey, Hello, Bonjour, Ciao <img alt="Waving Hand" src="wavingHand.gif" width="50" height="50"></h1>
+  <h1>Hey, Hello, Bonjour, Ciao <img alt="Waving Hand" src="wavingHand.gif" width="45" height="45"></h1>
 </div>
 
-<a href="https://www.linkedin.com/in/olivier-l%C3%BCthy-381a0b24b/">
-    <img alt="GitHub followers" src="https://media.licdn.com/dms/image/D4D16AQGeAXxK0g-kNA/profile-displaybackgroundimage-shrink_350_1400/0/1681888349977?e=1714608000&v=beta&t=raQf9496veooldklPltdPaskM2S_dBCm062mL9a-m2c">
-  </a><br><br><br>
-
 <div align="center">
-  <h3><strong>I'm a 21 years old software developer, videographer, photographer, and cybersecurity enthusiast!</strong></h3>
-</div><br><br>
+  <h3>I'm a 21 years old <strong><em>software developer</em></strong>, <strong><em>videographer</em></strong>, <strong><em>photographer</em></strong>, and <strong><em>cybersecurity enthusiast!</em></strong></h3>
+</div><br>
 
   <p align="center">
     <a href="https://github.com/olivierluethy/olivierluethy"><img src="https://komarev.com/ghpvc/?username=olivierluethy&style=for-the-badge&color=000000&abbreviated=true"/></a>
