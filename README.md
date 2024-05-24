@@ -117,30 +117,6 @@
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
-      </a>
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React.js" />
-      </a>
-      <br>React.js
-    </td>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
         <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" width="48" height="48" alt="Ionic" />
       </a>
       <br>Ionic Framework
