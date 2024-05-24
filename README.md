@@ -33,12 +33,6 @@
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
@@ -87,9 +81,9 @@
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="SASS" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="SCSS" />
       </a>
-      <br>SASS | SCSS
+      <br>SCSS
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
