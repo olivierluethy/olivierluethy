@@ -2,15 +2,17 @@
   <h1>Hey, Hello, Bonjour, Ciao <img alt="Waving Hand" src="wavingHand.gif" width="45" height="45"></h1>
 </div>
 
+<img src="https://media.licdn.com/dms/image/D4D16AQGeAXxK0g-kNA/profile-displaybackgroundimage-shrink_350_1400/0/1681888349977?e=1724889600&v=beta&t=u2I1al1rbYEhS9vS7ZFdghbdS_XGsez4VTthJQ5TTiM"/>
+
 <div align="center">
   <h3>I'm a 21 years old <strong><em>software developer</em></strong>, <strong><em>videographer</em></strong>, <strong><em>photographer</em></strong>, and <strong><em>cybersecurity enthusiast!</em></strong></h3>
-</div><br>
+</div><be>
 
-  <p align="center">
-    <a href="https://github.com/olivierluethy/olivierluethy"><img src="https://komarev.com/ghpvc/?username=olivierluethy&style=for-the-badge&color=000000&abbreviated=true"/></a>
-    <a href="https://www.linkedin.com/in/olivier-l%C3%BCthy-381a0b24b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-    <a href="https://www.instagram.com/olivier.luethy/"><img src="https://img.shields.io/badge/Olivier Lüthy-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  </p>
+<p align="center">
+  <a href="https://github.com/olivierluethy/olivierluethy"><img src="https://komarev.com/ghpvc/?username=olivierluethy&style=for-the-badge&color=000000&abbreviated=true"/></a>
+  <a href="https://www.linkedin.com/in/olivier-l%C3%BCthy-381a0b24b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/olivier.luethy/"><img src="https://img.shields.io/badge/Olivier Lüthy-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+</p>
 
 ## Where my professional interests lie
 - 🤖 Robotics
@@ -118,7 +120,25 @@
   </tr>
 </table>
 
-## Cross-platform runtime environment
+## Database Languages
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="ASP.NET Core" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Ionic" />
+      </a>
+      <br>Transact-SQL
+    </td>
+  </tr>
+</table>
+
+## Cross-platform runtime environment and testing
 <table>
   <tr>
     <td align="center" width="96">
@@ -127,18 +147,36 @@
       </a>
       <br>Node.js
     </td>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Insomnia
+    </td>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>VirtualBox
+    </td>
   </tr>
 </table>
 
 ## My projects
 <p align="center">
   <h3>Filter my projects by language</h3>
-    <a href="https://github.com/olivierluethy?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat-square&logo=Plex&logoColor=white" width="120" height="30"></a>
-    <a href="https://github.com/olivierluethy?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3A85B7?style=flat-square&logo=Python&logoColor=yellow" width="120" height="30"></a>
-    <a href="https://github.com/olivierluethy?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-6C4EDB?style=flat-square&logo=csharp&logoColor=21262d" width="120" height="30"></a>
-   <a href="https://github.com/olivierluethy?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=javascript&logoColor=yellow" width="120" height="30"></a>
-    <a href="https://github.com/olivierluethy?tab=repositories&language=powershell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=black" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=vue" target="_blank"><img alt="vue.js" src="https://img.shields.io/badge/-Vue.js-444E62?style=flat-square&logo=Vue.js&logoColor=green" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Repos-000000?style=flat-square&logo=Github&logoColor=white" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3A85B7?style=flat-square&logo=Python&logoColor=yellow" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-6C4EDB?style=flat-square&logo=csharp&logoColor=21262d" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=javascript&logoColor=yellow" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=powershell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=black" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=vue" target="_blank"><img alt="vue.js" src="https://img.shields.io/badge/-Vue.js-31475E?style=flat-square&logo=Vue.js&logoColor=green" width="120" height="30"></a>
   <a href="https://github.com/olivierluethy?tab=repositories&language=php" target="_blank"><img alt="php" src="https://img.shields.io/badge/-PHP-5391FE?style=flat-square&logo=PHP&logoColor=gray" width="120" height="30"></a>
   <a href="https://github.com/olivierluethy?tab=repositories&language=react" target="_blank"><img alt="php" src="https://img.shields.io/badge/-React.js-5391FE?style=flat-square&logo=React&logoColor=blue" width="120" height="30"></a>
 </p>
