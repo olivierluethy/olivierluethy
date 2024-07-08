@@ -185,6 +185,7 @@
 1. Game Shop called <a href="https://github.com/olivierluethy/GGames">GGames</a><br>
 2. A tournament schedule application called <a href="https://github.com/olivierluethy/TourneyMaster">TourneyMaster</a><br>
 3. Notes-taking app called <a href="https://github.com/olivierluethy/TackPad">TackPad</a><br>
+The project uses <strong>hashing</strong> and <strong>encryption</strong> to securely store user data and notes in the database. This ensures that users cannot <strong>directly</strong> access or retrieve their data from the database without proper <strong>authorization</strong>. This project taught me how to hash and encrypt data properly and securely.<br><br>
 4. Online game called <a href="https://github.com/olivierluethy/Mastermind">Mastermind</a><br>
 5. All in one Password Generator + Password Cracker + Password Strength Checker called <a href="https://github.com/olivierluethy/PassMasterSuite">PassMasterSuite</a><br>
 
