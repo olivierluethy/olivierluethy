@@ -168,6 +168,48 @@
   </tr>
 </table>
 
+## Operating Systems
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Windows
+    </td>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Kali
+    </td>
+  </tr>
+</table>
+
+## Hacking Tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://github.com/sammorozov/sammorozov/blob/main/assets/burp.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Burpsuite
+    </td>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://github.com/sammorozov/sammorozov/blob/main/assets/nmap-logo.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Nmap
+    </td>
+  </tr>
+</table>
+
 ## My projects
 <p align="center">
   <h3>Filter my projects by language</h3>
@@ -181,22 +223,23 @@
   <a href="https://github.com/olivierluethy?tab=repositories&language=react" target="_blank"><img alt="php" src="https://img.shields.io/badge/-React.js-5391FE?style=flat-square&logo=React&logoColor=blue" width="120" height="30"></a>
 </p>
 
-<h3>My biggest projects</h3>
-<h4><a href="https://github.com/olivierluethy/GGames"><em>GGames</em></a></h4>
-An online Game Shop where you can buy games.<br>
+## My Biggest Projects
 
-<h4><a href="https://github.com/olivierluethy/TourneyMaster"><em>TourneyMaster</em></a></h4>
-A tournament schedule application.<br>
-  
-<h4><a href="https://github.com/olivierluethy/TackPad"><em>TackPad</em></a></h4>
-A online Notes-taking app.<br>
-The project uses <strong>hashing</strong> and <strong>encryption</strong> to securely store user data and notes in the database. This ensures that users cannot <strong>directly</strong> access or retrieve their data from the database without proper <strong>authorization</strong>. This project taught me how to hash and encrypt data properly and securely.<br>
+### [GGames](https://github.com/olivierluethy/GGames)
+An online game shop where you can purchase a wide variety of games.
 
-<h4><a href="https://github.com/olivierluethy/Mastermind"><em>Mastermind</em></a></h4>
-Online Mastermind<br>
+### [TourneyMaster](https://github.com/olivierluethy/TourneyMaster)
+A comprehensive application for scheduling and managing tournaments.
 
-<h4><a href="https://github.com/olivierluethy/PassMasterSuite"><em>PassMasterSuite</em></a></h4>
-All in one Password Generator + Password Cracker + Password Strength Checker<br>
+### [TackPad](https://github.com/olivierluethy/TackPad)
+An online note-taking app designed with a strong emphasis on security.  
+This project utilizes **hashing** and **encryption** techniques to securely store user data and notes in the database. This ensures that unauthorized access to user data is prevented. Through this project, I gained valuable experience in properly and securely implementing data hashing and encryption.
+
+### [Mastermind](https://github.com/olivierluethy/Mastermind)
+It's an online version of the classic Mastermind game.
+
+### [PassMasterSuite](https://github.com/olivierluethy/PassMasterSuite)
+An all-in-one tool featuring a password generator, password cracker, and password strength checker.
 
 ``More projects coming soon``
 
@@ -204,11 +247,17 @@ All in one Password Generator + Password Cracker + Password Strength Checker<br>
 <h4><a href="https://github.com/linalopes/AI-storytelling-for-kids"><em>AI Storytelling for Kids</em></a></h4>
 Application to take a photo from the cam, image is sent to ChatGPT API and it creates a story based on image<br>
 
-## My statistics
-<a href="https://github.com/olivierluethy/olivierluethy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivierluethy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical"/>
-</a>
+---
 
-<a href="https://github.com/olivierluethy/olivierluethy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivierluethy&show_icons=true&theme=radical&layout=donut" />
-</a>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img width="800" height="220" src="https://streak-stats.demolab.com?user=olivierluethy&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak" /></a>
+</p>
+
+
+---
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=olivierluethy&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivierluethy&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
