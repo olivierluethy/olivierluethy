@@ -182,17 +182,27 @@
 </p>
 
 <h3>My biggest projects</h3>
-1. Game Shop called <a href="https://github.com/olivierluethy/GGames">GGames</a><br>
-2. A tournament schedule application called <a href="https://github.com/olivierluethy/TourneyMaster">TourneyMaster</a><br>
-3. Notes-taking app called <a href="https://github.com/olivierluethy/TackPad">TackPad</a><br>
-The project uses <strong>hashing</strong> and <strong>encryption</strong> to securely store user data and notes in the database. This ensures that users cannot <strong>directly</strong> access or retrieve their data from the database without proper <strong>authorization</strong>. This project taught me how to hash and encrypt data properly and securely.<br><br>
-4. Online game called <a href="https://github.com/olivierluethy/Mastermind">Mastermind</a><br>
-5. All in one Password Generator + Password Cracker + Password Strength Checker called <a href="https://github.com/olivierluethy/PassMasterSuite">PassMasterSuite</a><br>
+<h4><a href="https://github.com/olivierluethy/GGames"><em>GGames</em></a></h4>
+An online Game Shop where you can buy games.<br>
+
+<h4><a href="https://github.com/olivierluethy/TourneyMaster"><em>TourneyMaster</em></a></h4>
+A tournament schedule application.<br>
+  
+<h4><a href="https://github.com/olivierluethy/TackPad"><em>TackPad</em></a></h4>
+A online Notes-taking app.<br>
+The project uses <strong>hashing</strong> and <strong>encryption</strong> to securely store user data and notes in the database. This ensures that users cannot <strong>directly</strong> access or retrieve their data from the database without proper <strong>authorization</strong>. This project taught me how to hash and encrypt data properly and securely.<br>
+
+<h4><a href="https://github.com/olivierluethy/Mastermind"><em>Mastermind</em></a></h4>
+Online Mastermind<br>
+
+<h4><a href="https://github.com/olivierluethy/PassMasterSuite"><em>PassMasterSuite</em></a></h4>
+All in one Password Generator + Password Cracker + Password Strength Checker<br>
 
 ``More projects coming soon``
 
 <h3>My contributions</h3>
-1. Application to take a photo from the cam, image is sent to ChatGPT API and it creates a story based on image called <a href="https://github.com/linalopes/AI-storytelling-for-kids">AI Storytelling for Kids</a><br>
+<h4><a href="https://github.com/linalopes/AI-storytelling-for-kids"><em>AI Storytelling for Kids</em></a></h4>
+Application to take a photo from the cam, image is sent to ChatGPT API and it creates a story based on image<br>
 
 ## My statistics
 <a href="https://github.com/olivierluethy/olivierluethy">
