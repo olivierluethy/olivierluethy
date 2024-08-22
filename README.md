@@ -197,13 +197,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/sammorozov/sammorozov/blob/main/assets/burp.svg" width="48" height="48" alt="Node.js" />
+        <img src="https://miro.medium.com/v2/resize:fit:710/1*KMYIE0A-u-DhaMm9N2ImlA.png" width="48" height="48" alt="Burpsuite" />
       </a>
       <br>Burpsuite
     </td>
     <td align="center" width="96">
       <a href="#olivierluethy">
-        <img src="https://github.com/sammorozov/sammorozov/blob/main/assets/nmap-logo.svg" width="48" height="48" alt="Node.js" />
+        <img src="https://pbs.twimg.com/profile_images/59400677/InsecureEye2-Vlad-SocialNet-480x480_400x400.png" width="48" height="48" alt="Nmap" />
       </a>
       <br>Nmap
     </td>
