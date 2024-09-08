@@ -2,7 +2,7 @@
   <h1>Hey, Hello, Bonjour, Ciao <img alt="Waving Hand" src="wavingHand.gif" width="45" height="45"></h1>
 </div>
 
-<img src="https://media.licdn.com/dms/image/D4D16AQGeAXxK0g-kNA/profile-displaybackgroundimage-shrink_350_1400/0/1681888349977?e=1724889600&v=beta&t=u2I1al1rbYEhS9vS7ZFdghbdS_XGsez4VTthJQ5TTiM"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGeAXxK0g-kNA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1681888349977?e=1731542400&v=beta&t=zkvS87fw0buG9v9D0my8834ipLnqGvgY6DpuaCClz0c"/>
 
 <div align="center">
   <h3>I'm a 21 years old <strong><em>software developer</em></strong>, <strong><em>videographer</em></strong>, <strong><em>photographer</em></strong>, and <strong><em>cybersecurity enthusiast!</em></strong></h3>
