@@ -2,10 +2,10 @@
   <h1>Hey, Hello, Bonjour, Ciao <img alt="Waving Hand" src="wavingHand.gif" width="45" height="45"></h1>
 </div>
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGeAXxK0g-kNA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1681888349977?e=1739404800&v=beta&t=mCJ6n7hLQswUD7jwJXo2pxqwNixwgOGE2x_oXCZosmY"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGeAXxK0g-kNA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1681888349977?e=1749081600&v=beta&t=pYcvqr9GtEFeVmQtSrB6WT4UheOGBkI5r0lzv4bK9Oo"/>
 
 <div align="center">
-  <h3>I'm a 21 years old <strong><em>software developer</em></strong>, <strong><em>videographer</em></strong>, <strong><em>photographer</em></strong>, and <strong><em>cybersecurity enthusiast!</em></strong></h3>
+  <h3>I'm a <strong><em>software developer</em></strong>, <strong><em>videographer</em></strong>, <strong><em>photographer</em></strong>, <strong><em>Drone engineer</em></strong> and <strong><em>cybersecurity enthusiast!</em></strong></h3>
 </div><be>
 
 <p align="center">
@@ -20,6 +20,7 @@
 - 💻 Software Development
 - 🌐 Full-Stack Web Development
 - 🚁 Building and flying FPV drones
+- 3D Modeling & Printing with Fushion 360 and Ultimaker Cura
 - 📷✂️ Photography | Editing with Adobe Lightroom and Photoshop<br><p><a href="https://www.instagram.com/visioncraft_photography/"><img src="https://img.shields.io/badge/Visioncraft Photography-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 - 🎥✂️ Videography | Editing with Filmora, Sony Vegas Pro, Adobe Premiere Pro, DaVinci Resolve <p><a href="https://www.youtube.com/channel/UChOkKYojDAE8L9HPXNnL1Kw"><img src="https://img.shields.io/badge/Olivier Lüthy-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=pink" height=25></a><a href="https://www.youtube.com/channel/UChOkKYojDAE8L9HPXNnL1Kw">
 </p>
@@ -117,6 +118,12 @@
       </a>
       <br>Ionic Framework
     </td>
+    <td align="center" width="96">
+      <a href="#olivierluethy">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="WordPress" />
+      </a>
+      <br>WordPress
+    </td>
   </tr>
 </table>
 
@@ -213,11 +220,17 @@
 ## My projects
 <p align="center">
   <h3>Filter my projects by language</h3>
+  <!-- 
+  To get the icon google:
+  shields.io powershell badge logo
+  OR search here:
+  https://github.com/inttter/md-badges 
+  -->
   <a href="https://github.com/olivierluethy?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Repos-000000?style=flat-square&logo=Github&logoColor=white" width="120" height="30"></a>
   <a href="https://github.com/olivierluethy?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3A85B7?style=flat-square&logo=Python&logoColor=yellow" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-6C4EDB?style=flat-square&logo=csharp&logoColor=21262d" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/-C%23-4F2ACD?style=flat-square&logo=cshrp&logoColor=21262d" width="120" height="30"></a>
   <a href="https://github.com/olivierluethy?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=javascript&logoColor=yellow" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=powershell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=black" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=powershell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-293E58?style=flat-square&logo=gnome-terminal&logoColor=white" width="120" height="30"></a>
   <a href="https://github.com/olivierluethy?tab=repositories&language=vue" target="_blank"><img alt="vue.js" src="https://img.shields.io/badge/-Vue.js-31475E?style=flat-square&logo=Vue.js&logoColor=green" width="120" height="30"></a>
   <a href="https://github.com/olivierluethy?tab=repositories&language=php" target="_blank"><img alt="php" src="https://img.shields.io/badge/-PHP-5391FE?style=flat-square&logo=PHP&logoColor=gray" width="120" height="30"></a>
   <a href="https://github.com/olivierluethy?tab=repositories&language=react" target="_blank"><img alt="php" src="https://img.shields.io/badge/-React.js-5391FE?style=flat-square&logo=React&logoColor=blue" width="120" height="30"></a>
