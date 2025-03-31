@@ -2,7 +2,7 @@
   <h1>Hey, Hello, Bonjour, Ciao <img alt="Waving Hand" src="wavingHand.gif" width="45" height="45"></h1>
 </div>
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGeAXxK0g-kNA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1681888349977?e=1749081600&v=beta&t=pYcvqr9GtEFeVmQtSrB6WT4UheOGBkI5r0lzv4bK9Oo"/>
+<img src="https://github.com/olivierluethy/olivierluethy/blob/master/profBackground.jpg"/>
 
 <div align="center">
   <h3>I'm a <strong><em>software developer</em></strong>, <strong><em>videographer</em></strong>, <strong><em>photographer</em></strong>, <strong><em>Drone engineer</em></strong> and <strong><em>cybersecurity enthusiast!</em></strong></h3>
