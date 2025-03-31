@@ -26,84 +26,27 @@
 </p>
 
 ## Programming languages with experiences
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C-Sharp" />
-      </a>
-      <br>C# 
-    </td>
-    <td align="center" width="96">
-      <a href="olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell" />
-      </a>
-      <br>PowerShell
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <h3>Filter my projects by language</h3>
+  <!-- 
+  To get the icon google:
+  shields.io powershell badge logo
+  OR search here:
+  https://github.com/inttter/md-badges 
+  -->
+  <a href="https://github.com/olivierluethy?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Repos-000000?style=flat-square&logo=Github&logoColor=white" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-3A85B7?style=flat-square&logo=html5&logoColor=yellow" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=css" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-3A85B7?style=flat-square&logo=css3&logoColor=yellow" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=scss" target="_blank"><img alt="SCSS" src="https://img.shields.io/badge/-SCSS-5391FE?style=flat-square&logo=SASS&logoColor=blue" width="120" height="30"></a>
+   <a href="https://github.com/olivierluethy?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=javascript&logoColor=yellow" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3A85B7?style=flat-square&logo=Python&logoColor=yellow" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/-C%23-4F2ACD?style=flat-square&logo=cshrp&logoColor=21262d" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=powershell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-293E58?style=flat-square&logo=gnome-terminal&logoColor=white" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=vue" target="_blank"><img alt="vue.js" src="https://img.shields.io/badge/-Vue.js-31475E?style=flat-square&logo=Vue.js&logoColor=green" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=php" target="_blank"><img alt="php" src="https://img.shields.io/badge/-PHP-5391FE?style=flat-square&logo=PHP&logoColor=gray" width="120" height="30"></a>
+  <a href="https://github.com/olivierluethy?tab=repositories&language=react" target="_blank"><img alt="php" src="https://img.shields.io/badge/-React.js-5391FE?style=flat-square&logo=React&logoColor=blue" width="120" height="30"></a>
+</p>
 
-## Languages for the web
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="SCSS" />
-      </a>
-      <br>SCSS
-    </td>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#olivierluethy">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-  </tr>
-</table>
-
-## Web Frameworks with experience
 <table>
   <tr>
     <td align="center" width="96">
@@ -124,12 +67,6 @@
       </a>
       <br>WordPress
     </td>
-  </tr>
-</table>
-
-## Database Languages
-<table>
-  <tr>
     <td align="center" width="96">
       <a href="#olivierluethy">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="ASP.NET Core" />
@@ -142,13 +79,7 @@
       </a>
       <br>Transact-SQL
     </td>
-  </tr>
-</table>
-
-## Cross-platform runtime environment and testing
-<table>
-  <tr>
-    <td align="center" width="96">
+<td align="center" width="96">
       <a href="#olivierluethy">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       </a>
@@ -172,13 +103,7 @@
       </a>
       <br>VirtualBox
     </td>
-  </tr>
-</table>
-
-## Operating Systems
-<table>
-  <tr>
-    <td align="center" width="96">
+<td align="center" width="96">
       <a href="#olivierluethy">
         <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="48" height="48" alt="Node.js" />
       </a>
@@ -196,13 +121,7 @@
       </a>
       <br>Kali
     </td>
-  </tr>
-</table>
-
-## Hacking Tools
-<table>
-  <tr>
-    <td align="center" width="96">
+<td align="center" width="96">
       <a href="#olivierluethy">
         <img src="https://miro.medium.com/v2/resize:fit:710/1*KMYIE0A-u-DhaMm9N2ImlA.png" width="48" height="48" alt="Burpsuite" />
       </a>
@@ -214,54 +133,9 @@
       </a>
       <br>Nmap
     </td>
+
   </tr>
 </table>
-
-## My projects
-<p align="center">
-  <h3>Filter my projects by language</h3>
-  <!-- 
-  To get the icon google:
-  shields.io powershell badge logo
-  OR search here:
-  https://github.com/inttter/md-badges 
-  -->
-  <a href="https://github.com/olivierluethy?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Repos-000000?style=flat-square&logo=Github&logoColor=white" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3A85B7?style=flat-square&logo=Python&logoColor=yellow" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/-C%23-4F2ACD?style=flat-square&logo=cshrp&logoColor=21262d" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=javascript&logoColor=yellow" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=powershell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-293E58?style=flat-square&logo=gnome-terminal&logoColor=white" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=vue" target="_blank"><img alt="vue.js" src="https://img.shields.io/badge/-Vue.js-31475E?style=flat-square&logo=Vue.js&logoColor=green" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=php" target="_blank"><img alt="php" src="https://img.shields.io/badge/-PHP-5391FE?style=flat-square&logo=PHP&logoColor=gray" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=react" target="_blank"><img alt="php" src="https://img.shields.io/badge/-React.js-5391FE?style=flat-square&logo=React&logoColor=blue" width="120" height="30"></a>
-</p>
-
-## My Biggest Projects
-
-### [GGames](https://github.com/olivierluethy/GGames)
-An online game shop where you can purchase a wide variety of games.
-
-### [TourneyMaster](https://github.com/olivierluethy/TourneyMaster)
-A comprehensive application for scheduling and managing tournaments.
-
-### [TackPad](https://github.com/olivierluethy/TackPad)
-An online note-taking app designed with a strong emphasis on security.  
-This project utilizes **hashing** and **encryption** techniques to securely store user data and notes in the database. This ensures that unauthorized access to user data is prevented. Through this project, I gained valuable experience in properly and securely implementing data hashing and encryption.
-
-### [Mastermind](https://github.com/olivierluethy/Mastermind)
-It's an online version of the classic Mastermind game.
-
-### [PassMasterSuite](https://github.com/olivierluethy/PassMasterSuite)
-An all-in-one tool featuring a password generator, password cracker, and password strength checker.
-
-``More projects coming soon``
-
-<h3>My contributions</h3>
-<h4><a href="https://github.com/linalopes/AI-storytelling-for-kids"><em>AI Storytelling for Kids</em></a></h4>
-Application to take a photo from the cam, image is sent to ChatGPT API and it creates a story based on image<br>
-
----
-
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img width="800" height="220" src="https://streak-stats.demolab.com?user=olivierluethy&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak" /></a>
