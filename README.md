@@ -133,9 +133,11 @@
       </a>
       <br>Nmap
     </td>
-
   </tr>
 </table>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=olivierluethy&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=olivierluethy&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img width="800" height="220" src="https://streak-stats.demolab.com?user=olivierluethy&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak" /></a>
