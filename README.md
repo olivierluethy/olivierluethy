@@ -20,7 +20,7 @@
 - 💻 Software Development
 - 🌐 Full-Stack Web Development
 - 🚁 Building and flying FPV drones
-- 3D Modeling & Printing with Fushion 360 and Ultimaker Cura
+- 🖨️ 3D modelling & printing with Fushion 360 (design), Ultimaker Cura (printing), Creality (printer)
 - 📷✂️ Photography | Editing with Adobe Lightroom and Photoshop<br><p><a href="https://www.instagram.com/visioncraft_photography/"><img src="https://img.shields.io/badge/Visioncraft Photography-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 - 🎥✂️ Videography | Editing with Filmora, Sony Vegas Pro, Adobe Premiere Pro, DaVinci Resolve <p><a href="https://www.youtube.com/channel/UChOkKYojDAE8L9HPXNnL1Kw"><img src="https://img.shields.io/badge/Olivier Lüthy-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=pink" height=25></a><a href="https://www.youtube.com/channel/UChOkKYojDAE8L9HPXNnL1Kw">
 </p>
