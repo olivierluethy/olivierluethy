@@ -9,7 +9,6 @@
 </div><be>
 
 <p align="center">
-  <a href="https://github.com/olivierluethy/olivierluethy"><img src="https://komarev.com/ghpvc/?username=olivierluethy&style=for-the-badge&color=000000&abbreviated=true"/></a>
   <a href="https://www.linkedin.com/in/olivier-l%C3%BCthy-381a0b24b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/olivier.luethy/"><img src="https://img.shields.io/badge/Olivier Lüthy-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
@@ -135,14 +134,6 @@
     </td>
   </tr>
 </table>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=olivierluethy&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=olivierluethy&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img width="800" height="220" src="https://streak-stats.demolab.com?user=olivierluethy&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak" /></a>
-</p>
-
 
 ---
 
