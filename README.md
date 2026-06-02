@@ -33,17 +33,17 @@
   OR search here:
   https://github.com/inttter/md-badges 
   -->
-  <a href="https://github.com/olivierluethy?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Repos-000000?style=flat-square&logo=Github&logoColor=white" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-3A85B7?style=flat-square&logo=html5&logoColor=yellow" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=css" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-3A85B7?style=flat-square&logo=css3&logoColor=yellow" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=scss" target="_blank"><img alt="SCSS" src="https://img.shields.io/badge/-SCSS-5391FE?style=flat-square&logo=SASS&logoColor=blue" width="120" height="30"></a>
-   <a href="https://github.com/olivierluethy?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=javascript&logoColor=yellow" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3A85B7?style=flat-square&logo=Python&logoColor=yellow" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/-C%23-4F2ACD?style=flat-square&logo=cshrp&logoColor=21262d" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=powershell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-293E58?style=flat-square&logo=gnome-terminal&logoColor=white" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=vue" target="_blank"><img alt="vue.js" src="https://img.shields.io/badge/-Vue.js-31475E?style=flat-square&logo=Vue.js&logoColor=green" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=php" target="_blank"><img alt="php" src="https://img.shields.io/badge/-PHP-5391FE?style=flat-square&logo=PHP&logoColor=gray" width="120" height="30"></a>
-  <a href="https://github.com/olivierluethy?tab=repositories&language=react" target="_blank"><img alt="php" src="https://img.shields.io/badge/-React.js-5391FE?style=flat-square&logo=React&logoColor=blue" width="120" height="30"></a>
+  <a href="https://github.com/BaskLash?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Repos-000000?style=flat-square&logo=Github&logoColor=white" width="120" height="30"></a>
+  <a href="https://github.com/BaskLash?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-3A85B7?style=flat-square&logo=html5&logoColor=yellow" width="120" height="30"></a>
+  <a href="https://github.com/BaskLash?tab=repositories&language=css" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-3A85B7?style=flat-square&logo=css3&logoColor=yellow" width="120" height="30"></a>
+  <a href="https://github.com/BaskLash?tab=repositories&language=scss" target="_blank"><img alt="SCSS" src="https://img.shields.io/badge/-SCSS-5391FE?style=flat-square&logo=SASS&logoColor=blue" width="120" height="30"></a>
+   <a href="https://github.com/BaskLash?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=javascript&logoColor=yellow" width="120" height="30"></a>
+  <a href="https://github.com/BaskLash?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3A85B7?style=flat-square&logo=Python&logoColor=yellow" width="120" height="30"></a>
+  <a href="https://github.com/BaskLash?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/-C%23-4F2ACD?style=flat-square&logo=cshrp&logoColor=21262d" width="120" height="30"></a>
+  <a href="https://github.com/BaskLash?tab=repositories&language=powershell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-293E58?style=flat-square&logo=gnome-terminal&logoColor=white" width="120" height="30"></a>
+  <a href="https://github.com/BaskLash?tab=repositories&language=vue" target="_blank"><img alt="vue.js" src="https://img.shields.io/badge/-Vue.js-31475E?style=flat-square&logo=Vue.js&logoColor=green" width="120" height="30"></a>
+  <a href="https://github.com/BaskLash?tab=repositories&language=php" target="_blank"><img alt="php" src="https://img.shields.io/badge/-PHP-5391FE?style=flat-square&logo=PHP&logoColor=gray" width="120" height="30"></a>
+  <a href="https://github.com/BaskLash?tab=repositories&language=react" target="_blank"><img alt="php" src="https://img.shields.io/badge/-React.js-5391FE?style=flat-square&logo=React&logoColor=blue" width="120" height="30"></a>
 </p>
 
 ---
